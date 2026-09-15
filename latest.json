@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "WS-K-6.3 — update test build: sign-in screen now shows the version marker so you can confirm which build landed.",
-  "pub_date": "2026-09-15T14:45:03Z",
+  "version": "0.5.0",
+  "notes": "WS-K-6.6 — testing the locked-PostgreSQL-file update fix that shipped in 6.5.",
+  "pub_date": "2026-09-15T16:49:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0NuSjF4RkY3MTlvcEN2WjNScGZTcFM4eC9IYk1MbUtsd3RSdUhtWWxpWDRuYjJSeEdwd0lYSmVpSTBVSGVkZ3d4YmpXNmRmcVIxN2lzRVlRVDFObW9RV1VYYW9QaFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDgzMjI1CWZpbGU6U3RvY2tpaGFfMC4zLjBfeDY0LXNldHVwLmV4ZQpVZzh4dFpwSW41UDcrUlBPeWlHNy9BeUxoT2hMRVhPbUQxZmFFTUlaSzFLZUM5WWZsMEJtNzlTMlJrRzlzUzVDb2pDdkNlTTJrbDRyV3JRQmdsQ3BBZz09Cg==",
-      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.3.0/Stockiha_WS-K-6.3-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0NuSjF4RkY3MS8vekJySk83RnZUZGcwWS9tTWlZNWMweStFMGNVMDl5L1l1bVRnOW8rZXJ0c1JBY25LNDhjbDUzSGpobElxQS9USFJZeWJDNng2R1BQcUxZbWx0ZWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDkwODU3CWZpbGU6U3RvY2tpaGFfMC41LjBfeDY0LXNldHVwLmV4ZQpGS1JVM1owM3RaWHFBbFBJZUppZEhXcDJuQ0RNdU0wYWpSOGFhMmxWNkc0Qmtxa1ZkUWcrRFJxV0dPKzdQWG5JSHNNWTd3QUJPMFB4L3h1Q1drTVlCZz09Cg==",
+      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.5.0/Stockiha_WS-K-6.6-setup.exe"
     }
   }
 }
