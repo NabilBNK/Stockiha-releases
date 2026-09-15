@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "WS-K-6.2 — internet-delivered updates pointed at the real Stockiha-releases repository.",
-  "pub_date": "2026-09-15T09:50:34Z",
+  "version": "0.3.0",
+  "notes": "WS-K-6.3 — update test build: sign-in screen now shows the version marker so you can confirm which build landed.",
+  "pub_date": "2026-09-15T14:45:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0NuSjF4RkY3MTRIRmRZY1NqWFJWQVpnSjdTdGlCSWNUWk1WamJJT0VJeHV0WTQ2ZkQ0UlRyM2ZjR1JKcnYrZFRYOGZZMXNUd0JYYkhIOGpCaXpLSVRWbjdOZ0FRaWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDY1NzcyCWZpbGU6U3RvY2tpaGFfMC4yLjBfeDY0LXNldHVwLmV4ZQp4SVVOWXhJMDJmS1dGVGRDN3ZPYnE1U0I5OXJkckt3bHhlWUhIb2JZS1d2ZXBUZjZubGU1MHhIWWJLbk1GVTJhT2R6UC9NRTVtNU1yNm94L3UxZEREZz09Cg==",
-      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.2.0/Stockiha_WS-K-6.2-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0NuSjF4RkY3MTlvcEN2WjNScGZTcFM4eC9IYk1MbUtsd3RSdUhtWWxpWDRuYjJSeEdwd0lYSmVpSTBVSGVkZ3d4YmpXNmRmcVIxN2lzRVlRVDFObW9RV1VYYW9QaFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDgzMjI1CWZpbGU6U3RvY2tpaGFfMC4zLjBfeDY0LXNldHVwLmV4ZQpVZzh4dFpwSW41UDcrUlBPeWlHNy9BeUxoT2hMRVhPbUQxZmFFTUlaSzFLZUM5WWZsMEJtNzlTMlJrRzlzUzVDb2pDdkNlTTJrbDRyV3JRQmdsQ3BBZz09Cg==",
+      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.3.0/Stockiha_WS-K-6.3-setup.exe"
     }
   }
 }
