@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "WS-F-5.1 - manager approval required for cash-out, custom-reason description requirement, 200-character note limit.",
-  "pub_date": "2026-09-21T18:21:21Z",
+  "version": "0.7.0",
+  "notes": "WS-O-4.6: Single warehouse consolidation, compact inline attribute chips, sellable pack auto-pricing, in-stock catalog filter, and POS in-stock visibility fix.",
+  "pub_date": "2026-10-01T17:35:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0NuSjF4RkY3MTNSL3loWEVuaHoxS1RTN2RTZHBpS0Ird0ZmZVpqd3ZCMzkydEo2b2dLNzdTTXArVHM1NDg4SVora21vOUJhWTBFRWdIaGlacUZ1YklGUFZMaldsVFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDEyNTk2CWZpbGU6U3RvY2tpaGFfMC42LjBfeDY0LXNldHVwLmV4ZQo1ZHhwZE9BbkZ3ck4zYXZXMDluVmtNaEk5K05JeENZVlc4TmZOMW1iRHJ4T3VPaUwrb1VJMndBT045SFI3QmQ3Qll1cWNtaVdHZ29uOFNQUnplK2FCdz09Cg==",
-      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.6.0/Stockiha_WS-F-5.1-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1R4N2lWNWx2T1FmeWlLMzFjMlNNT1B6R3Bka3Y2KzZVbnBXNFkvcUxvbGVmVEZEZkh3TUpSZ3lJTjFPMEhEbzZUaW4rcmt5RzI1NmxrNWlDMlFBZUNhOTVPTDlKV3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc2MTM1CWZpbGU6U3RvY2tpaGFfMC43LjBfeDY0LXNldHVwLmV4ZQplVExhM2ZtclVsL0lSaGRpTzJhaGVJVnZSK0JWNWdLa0pWZm8xa1FIcnBIaWRsNVpTTXY4eHZFM0w5a3RpRGlnVUpqRkdXN1pyVzBWSjRFSGFpMVlDdz09Cg==",
+      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.7.0/Stockiha_WS-O-4.6-setup.exe"
     }
   }
 }
