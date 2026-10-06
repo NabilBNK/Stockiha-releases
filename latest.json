@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "WS-O-4.6: Single warehouse consolidation, compact inline attribute chips, sellable pack auto-pricing, in-stock catalog filter, and POS in-stock visibility fix.",
-  "pub_date": "2026-10-01T17:35:35Z",
+  "version": "0.8.0",
+  "notes": "WS-R-1.9: Brand icon refresh, hidden opening-state setup, enhanced backup result design, and licence setting polish.",
+  "pub_date": "2026-10-06T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1R4N2lWNWx2T1UvcDVqUWVLSWc3U1V5R29LcHZJRW50Z1RxY01sMi9IQjZDOFU0Sm1zaXdJVTdhUmJjVHlMcnBCdTc0d1Joc2tBQ3FteEI5em9OR1IxV0JaSTBTancwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzExNjQzCWZpbGU6U3RvY2tpaGFfMC43LjBfeDY0LXNldHVwLmV4ZQpYQXZYbnI2MDlNQythbWRPODg2Q2tyanNUOUVEUjhTUFRKOVJFNnhFbFdMSStCbTVtRmZiTHBITTBFZndJYloxOXlGbm9FRHZWM0RyNkJQS1ZwdnhDZz09Cg==",
-      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.7.0/Stockiha_WS-O-4.6-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT1R4N2lWNWx2T2ZtQXlqRGJDYy9WRHhudFRkL2E1WVF6Tzg1Sit4eFkxTktDQkpscVFJc1ZjL3ZGai96UlhFeUNmUWNVa0gzMmt6dy9MVSt6VmhYN2wzclBTUm1tUXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE3Nzg2CWZpbGU6U3RvY2tpaGFfMC44LjBfeDY0LXNldHVwLmV4ZQorVXl0OHk2aHY4aFBsWlh3ODhZaGYyaE5YMUxmV0lwc05rSklaT2pqNzA1SFlPaHNaSzBTVENCMWo5Wmc1L3YrTm5PbmFmVytlMkQxcnl2bCsvaGVBQT09Cg==",
+      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.8.0/Stockiha_WS-R-1.9-setup.exe"
     }
   }
 }
