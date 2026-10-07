@@ -1,11 +1,11 @@
 {
-  "version": "0.8.1",
-  "notes": "WS-R-2.3: Fixed direct purchase receipt cut-off and made it full page with smooth scrollbox. Added in-stock filter across search pickers, redesigned cash session overview and modern minimalist A4 print template.",
-  "pub_date": "2026-10-07T12:00:00Z",
+  "version": "0.8.2",
+  "notes": "WS-R-2.4: Fixed expired licence renewal input in Settings, receipt detail full-page view, search filters, and cash session overview.",
+  "pub_date": "2026-10-07T18:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "<YOUR_NEW_SIGNATURE_STRING>",
-      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.8.1/Stockiha_WS-R-2.3-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0NuSjF4RkY3MThNejA5bHBPa2NpOUVHcm93U0JiNlkxSUpVQ1VheGEyNDVzNEljNW5CS2Z6QnNSbWc2SzZhVlExbStVTEh0T01wcHd4L0hMaGN2Y2lyNWNEWnJEN1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzk3MDQ2CWZpbGU6U3RvY2tpaGFfMC44LjJfeDY0LXNldHVwLmV4ZQpuMGNET01WVlluUy90VThSYlRwUzlMQU5UbGVieDd5R3dlcDNuaFc2MVhJS0xudmV6MHFQZGR3Sk1MNU9pWmRuUXUvREFjdXBJUDZyT3NhYnpmUkpEdz09Cg==",
+      "url": "https://github.com/NabilBNK/Stockiha-releases/releases/download/v0.8.2/Stockiha_WS-R-2.4-setup.exe"
     }
   }
 }
